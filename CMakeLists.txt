@@ -662,6 +662,7 @@ set(WINDOW_FILES
     ${PROJECT_SOURCE_DIR}/src/window/building/culture.c
     ${PROJECT_SOURCE_DIR}/src/window/building/distribution.c
     ${PROJECT_SOURCE_DIR}/src/window/building/depot.c
+    ${PROJECT_SOURCE_DIR}/src/window/building/depot_helper.c
     ${PROJECT_SOURCE_DIR}/src/window/building/figures.c
     ${PROJECT_SOURCE_DIR}/src/window/building/government.c
     ${PROJECT_SOURCE_DIR}/src/window/building/highway_station.c
